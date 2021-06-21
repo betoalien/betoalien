@@ -58,7 +58,7 @@ Here are some ideas to get you started:
   <img align="center" 
        alt="Gmail" 
        width="22px" 
-       src="https://user-images.githubusercontent.com/55005374/103146250-0d1b3a80-470c-11eb-8ead-a92232d45d6e.png" />
+       src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Circle-icons-mail.svg/1200px-Circle-icons-mail.svg.png" />
   </a>
 </h1>
 
