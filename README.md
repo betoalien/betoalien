@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- Title -->
-<h1 align="center">Hello World, Im Alberto,
+<h1 align="center">Hello World, Im Alberto
   <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" 
        width="30px">
   </h2></h1>
