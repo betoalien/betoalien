@@ -3,7 +3,7 @@
 I'm a **Data Engineer** from Mexico. 🇲🇽  
 I currently live in Texas, USA. 🇺🇸
 
-I created **PardoX** and I'm currently working on many exciting ideas. 🚀
+I created [**PardoX**](https://github.com/betoalien/PardoX/) and I'm currently working on many exciting ideas. 🚀
 
 I'm usually coding with **Python** and **JavaScript**, I've been working with and learning **Rust** for a while now, and I'll never leave **PHP** since it was my first love. 💻
 
